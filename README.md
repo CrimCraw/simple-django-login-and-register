@@ -37,7 +37,7 @@ If you need dynamic URLs with the language code, check out https://github.com/eg
 ### Clone the project
 
 ```bash
-git clone https://github.com/egorsmkv/simple-django-login-and-register
+https://github.com/CrimCraw/simple-django-login-and-register
 cd simple-django-login-and-register
 ```
 
@@ -64,7 +64,7 @@ uv pip install -r requirements.txt
 uv pip install -r requirements-dev.txt
 ```
 
-### Configure the settings (connection to the database, connection to an SMTP server, and other options)
+### Configure the settings connection to the database, connection to an SMTP server, and other options
 
 1. Edit `source/app/conf/development/settings.py` if you want to develop the project.
 
